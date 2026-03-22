@@ -1,5 +1,5 @@
 Opis projektu:
-Kompleksowy raport w Power BI analizujący przyczyny i trendy opóźnień lotniczych . Projekt łączy 20 lat danych historycznych z głęboką analizą efektywności poszczególnych lotnisk i linii lotniczych.
+Kompleksowy raport w Power BI analizujący przyczyny i trendy opóźnień lotniczych. Projekt łączy 20 lat danych historycznych z głęboką analizą efektywności poszczególnych lotnisk i linii lotniczych.
 
 Kluczowe umiejętności wykorzystane w projekcie:
 Modelowanie danych: Integracja tabel faktów z wymiarami (kalendarz, lotniska, pogoda).
